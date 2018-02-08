@@ -8,7 +8,7 @@ Now you too can track your travels to everywhere!
 2. ```npm install -g gulp```
 
 ### Post Clone Commands
-1. ```npm install`` within project folder
+1. ```npm install``` within project folder
 
 ### Gulp Commands
 * ```gulp clean```
