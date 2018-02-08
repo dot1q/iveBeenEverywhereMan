@@ -1,0 +1,639 @@
+[
+ {
+   "name": "Winnemucca, NV",
+   "lng": -117.729327,
+   "lat": 40.970519,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Reno, NV",
+   "lng": -119.81439,
+   "lat": 39.530368,
+   "visited": true,
+   "visit_date": ""
+ },
+ {
+   "name": "Chicago, IL",
+   "lng": -87.624333,
+   "lat": 41.879535,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Fargo, ND",
+   "lng": -96.798263,
+   "lat": 46.875,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Minnesota",
+   "lng": -94.6859,
+   "lat": 46.729553,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Buffalo, NY",
+   "lng": -78.877875,
+   "lat": 42.886875,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Toronto, Ontario, Canada",
+   "lng": -79.386755,
+   "lat": 43.670233,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Winslow, AZ",
+   "lng": -110.708495,
+   "lat": 35.027381,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Sarasota, FL",
+   "lng": -82.526866,
+   "lat": 27.338249,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Wichita, KS",
+   "lng": -97.335571,
+   "lat": 37.686024,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Tulsa, OK",
+   "lng": -95.975663,
+   "lat": 36.133354,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Ottawa, Ontario, Canada",
+   "lng": -75.697933,
+   "lat": 45.423494,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Oklahoma",
+   "lng": -97.092877,
+   "lat": 35.007752,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Tampa, FL",
+   "lng": -82.451141,
+   "lat": 27.98141,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Panama",
+   "lng": -79.603243,
+   "lat": 9.009697,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Mattawa, WA",
+   "lng": -119.900713,
+   "lat": 46.736903,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "La Paloma, AZ",
+   "lng": -110.913408,
+   "lat": 32.315586,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Bangor, ME",
+   "lng": -68.791652,
+   "lat": 44.836217,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Baltimore, MD",
+   "lng": -76.614275,
+   "lat": 39.294255,
+   "visited": true,
+   "visit_date": ""
+ },
+ {
+   "name": "Costa Rica",
+   "lng": -84.457397,
+   "lat": 10.471607,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Amarillo, TX",
+   "lng": -101.835552,
+   "lat": 35.202187,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Tocopilla, Chile",
+   "lng": -70.197296,
+   "lat": -22.08131,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Barranquilla, Colombia",
+   "lng": -74.810074,
+   "lat": 10.976521,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Padilla, Bolivia",
+   "lng": -64.305733,
+   "lat": -19.30452,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Boston, MA",
+   "lng": -71.05781,
+   "lat": 42.35892,
+   "visited": true,
+   "visit_date": ""
+ },
+ {
+   "name": "Charleston, SC",
+   "lng": -79.941294,
+   "lat": 32.793053,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Dayton, OH",
+   "lng": -84.205247,
+   "lat": 39.762445,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Louisiana",
+   "lng": -92.145024,
+   "lat": 31.244823,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Washington (D.C.)",
+   "lng": -77.00695,
+   "lat": 38.908934,
+   "visited": true,
+   "visit_date": ""
+ },
+ {
+   "name": "Houston, TX",
+   "lng": -95.362534,
+   "lat": 29.759956,
+   "visited": true,
+   "visit_date": ""
+ },
+ {
+   "name": "Kingston, Jamaica",
+   "lng": -76.792009,
+   "lat": 17.992731,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Texarkana, TX",
+   "lng": -94.068961,
+   "lat": 33.441059,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Monterey, CA",
+   "lng": -121.882465,
+   "lat": 36.59378,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Ferriday, LA",
+   "lng": -91.554838,
+   "lat": 31.634005,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Santa Fe, NM",
+   "lng": -105.938067,
+   "lat": 35.681622,
+   "visited": true,
+   "visit_date": ""
+ },
+ {
+   "name": "Tallapoosa, GA",
+   "lng": -85.287439,
+   "lat": 33.744314,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Glen Rock, NJ",
+   "lng": -74.126912,
+   "lat": 40.961709,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Black Rock Desert, NV",
+   "lng": -118.998413,
+   "lat": 41.027571,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Little Rock, AR",
+   "lng": -92.278864,
+   "lat": 34.724425,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Oskaloosa, IA",
+   "lng": -92.639139,
+   "lat": 41.296269,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Tennessee",
+   "lng": -86.580447,
+   "lat": 35.517491,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Hennessey, OK",
+   "lng": -97.898954,
+   "lat": 36.105186,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Chicopee, MA",
+   "lng": -72.598334,
+   "lat": 42.172286,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Spirit Lake, IA",
+   "lng": -95.109296,
+   "lat": 43.422638,
+   "visited": true,
+   "visit_date": ""
+ },
+ {
+   "name": "Grand Lake, CO",
+   "lng": -105.834985,
+   "lat": 40.253096,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Devils Lake, ND",
+   "lng": -98.871923,
+   "lat": 48.111596,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Crater Lake (Nat'l Park), OR",
+   "lng": -122.109245,
+   "lat": 42.944609,
+   "visited": true,
+   "visit_date": ""
+ },
+ {
+   "name": "Louisville, KY",
+   "lng": -85.75154,
+   "lat": 38.256065,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Nashville, TN",
+   "lng": -86.782056,
+   "lat": 36.158887,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Knoxville, TN",
+   "lng": -83.924377,
+   "lat": 35.966572,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Ombabika, Ontario, Canada",
+   "lng": -87.898178,
+   "lat": 50.233591,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Schefferville, Quebec, Canada",
+   "lng": -66.836552,
+   "lat": 54.803785,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Jacksonville, FL",
+   "lng": -81.657929,
+   "lat": 30.326221,
+   "visited": true,
+   "visit_date": ""
+ },
+ {
+   "name": "Waterville, ME",
+   "lng": -69.661624,
+   "lat": 44.542725,
+   "visited": true,
+   "visit_date": ""
+ },
+ {
+   "name": "Pittsfield, ME",
+   "lng": -69.384111,
+   "lat": 44.784759,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Springfield, MO",
+   "lng": -93.287061,
+   "lat": 37.196828,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Bakersfield, CA",
+   "lng": -119.018911,
+   "lat": 35.373405,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Shreveport, LA",
+   "lng": -93.747757,
+   "lat": 32.51424,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Hackensack, NJ",
+   "lng": -74.050271,
+   "lat": 40.888273,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Cadillac, MI",
+   "lng": -85.416533,
+   "lat": 44.248925,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Fond du Lac, WI",
+   "lng": -88.438959,
+   "lat": 43.775162,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Davenport, IA",
+   "lng": -90.583624,
+   "lat": 41.520206,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Idaho",
+   "lng": -114.742041,
+   "lat": 44.068202,
+   "visited": true,
+   "visit_date": ""
+ },
+ {
+   "name": "Jellico, TN",
+   "lng": -84.133519,
+   "lat": 36.582179,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Argentina",
+   "lng": -58.417309,
+   "lat": -34.611781,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Diamantina, Brazil",
+   "lng": -43.611013,
+   "lat": -18.238073,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Pasadena, CA",
+   "lng": -118.132351,
+   "lat": 34.145892,
+   "visited": true,
+   "visit_date": ""
+ },
+ {
+   "name": "Santa Catalina Island, CA",
+   "lng": -118.41631,
+   "lat": 33.387886,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Pittsburgh, PA",
+   "lng": -80.001933,
+   "lat": 40.438423,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Parkersburg, WV",
+   "lng": -81.54286,
+   "lat": 39.263574,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Gravelbourg, Saskatchewan, Canada",
+   "lng": -106.550722,
+   "lat": 49.872895,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Colorado",
+   "lng": -105.782067,
+   "lat": 39.550051,
+   "visited": true,
+   "visit_date": ""
+ },
+ {
+   "name": "Ellensburg, WA",
+   "lng": -120.548818,
+   "lat": 46.999606,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Rexburg, ID",
+   "lng": -111.789568,
+   "lat": 43.826079,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Vicksburg, MS",
+   "lng": -90.886831,
+   "lat": 32.313344,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "El Dorado (County), CA",
+   "lng": -120.434875,
+   "lat": 38.736946,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Larimore",
+   "lng": -90.204502,
+   "lat": 38.776448,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Atmore, AL",
+   "lng": -87.49377,
+   "lat": 31.019722,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Haverstraw, NY",
+   "lng": -73.96125,
+   "lat": 41.188345,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Chatanika, AK 99712",
+   "lng": -147.465393,
+   "lat": 65.111221,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Nebraska",
+   "lng": -99.901813,
+   "lat": 41.492537,
+   "visited": true,
+   "visit_date": ""
+ },
+ {
+   "name": "Alaska",
+   "lng": -154.493062,
+   "lat": 63.588753,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Opelika, AL",
+   "lng": -85.379839,
+   "lat": 32.658056,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Baraboo, WI",
+   "lng": -89.744351,
+   "lat": 43.469015,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Waterloo, IA",
+   "lng": -92.345572,
+   "lat": 42.490559,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Kalamazoo, MI",
+   "lng": -85.594228,
+   "lat": 42.290941,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Kansas City, MO",
+   "lng": -94.583653,
+   "lat": 39.090432,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Sioux City, IA",
+   "lng": -96.404948,
+   "lat": 42.489678,
+   "visited": true,
+   "visit_date": ""
+ },
+ {
+   "name": "Cedar City, UT",
+   "lng": -113.088024,
+   "lat": 37.681854,
+   "visited": false,
+   "visit_date": ""
+ },
+ {
+   "name": "Dodge City, KS",
+   "lng": -100.016565,
+   "lat": 37.757298,
+   "visited": true,
+   "visit_date": ""
+ },
+ {
+   "name": "Chaska, MN",
+   "lng": -93.602535,
+   "lat": 44.820476,
+   "visited": false,
+   "visit_date": ""
+ }
+]
